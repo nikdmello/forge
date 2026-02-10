@@ -1,10 +1,3 @@
-//
-//  forgeUITests.swift
-//  forgeUITests
-//
-//  Created by Nikhil D'Mello on 2/10/26.
-//
-
 import XCTest
 
 final class forgeUITests: XCTestCase {
